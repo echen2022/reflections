@@ -6,7 +6,7 @@ You would use a remote repository when you're working with a partner or when you
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+You might want to do this becasue youa re able to control what is being pushed or pulled. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
